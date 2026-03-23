@@ -35,14 +35,14 @@ The app watches Claude Code's JSONL transcript files (`~/.claude/projects/`) in 
 
 ### 6 Diverse Procedural Characters
 
-| # | Gender | Skin | Hair | Shirt |
-|---|--------|------|------|-------|
-| 0 | Male | Light brown | Black | Blue |
-| 1 | Female | Dark brown | Black curly | Red |
-| 2 | Male | Fair | Brown | Green |
-| 3 | Female | Olive | Auburn | Purple |
-| 4 | Male | Deep brown | Black | Orange |
-| 5 | Female | Peach | Blonde | Teal |
+| # | Skin | Hair | Shirt |
+|---|------|------|-------|
+| 0 | Light brown | Black | Blue |
+| 1 | Dark brown | Black curly | Red |
+| 2 | Fair | Brown | Green |
+| 3 | Olive | Auburn | Purple |
+| 4 | Deep brown | Black | Orange |
+| 5 | Peach | Blonde | Teal |
 
 Each character has **224 sprites**: 14 states × 4 directions × 4 animation frames, generated procedurally and cached.
 
