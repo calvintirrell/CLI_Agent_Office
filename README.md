@@ -4,7 +4,7 @@ A cross-platform desktop app that visualizes Claude Code activity as animated pi
 
 Built with Tauri 2 (Rust backend + TypeScript/HTML5 Canvas frontend).
 
-There is also a native [macOS version](https://github.com/calvintirrell/cli-office-agent) (Swift/AppKit) with the same features.
+There is also a native [macOS version](https://github.com/calvintirrell/CLI_Office_Agent) (Swift/AppKit) with the same features.
 
 Inspired by [Pixel Agents](https://github.com/pablodelucca/pixel-agents).
 
